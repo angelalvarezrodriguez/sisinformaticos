@@ -1,4 +1,5 @@
 git init sisinformaticos
+==
 cd sisinformaticos
 git remote add origin https://github.com/angelalvarezrodriguez/sisinformaticos.git
 gedit README.md &
