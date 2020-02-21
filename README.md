@@ -17,7 +17,8 @@ Insertar Imagen
 ![Cambio de imagen](imagen1.png)
 ![Two steps autentication](imagen2.png)
 ![Seguir](imagen3.png)
-![Estrella](imagen4.png)
+![Buscar](imagen4.png)
+![Estrella](imagen5.png)
 
 
 |        NOMBRE          |                     GITHUB                        |
