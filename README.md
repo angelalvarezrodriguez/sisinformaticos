@@ -12,3 +12,19 @@ touch 1.txt
 git tag "v0.1"  
 git add .  
 git commit -m "version 0.1"  
+  
+Insertar Imagen  
+![Cambio de imagen](URL "imagen1.png")
+![Two steps autentication](URL "imagen2.png")
+![Seguir](URL "imagen3.png")
+![Estrella](URL "imagen4.png")
+
+
+|        NOMBRE          |                     GITHUB                        |
+|------------------------|---------------------------------------------------|
+| Adrián Castillo		 | https://github.com/adricastleithub.com		     |
+| Eduardo Guerra Sanchez | https://github.com/EduardoGuerraSanchez			 |
+| Salvador Cabezas Helmy | https://github.com/scabezash						 |
+
+
+
