@@ -14,7 +14,7 @@ git add .
 git commit -m "version 0.1"  
   
 Insertar Imagen  
-![Cambio de imagen](URL "./imagen1.png")
+![Cambio de imagen](URL "https://github.com/angelalvarezrodriguez/sisinformaticos/blob/master/imagen1.png")
 ![Two steps autentication](URL "./imagen2.png")
 ![Seguir](URL "./imagen3.png")
 ![Estrella](URL "./imagen4.png")
